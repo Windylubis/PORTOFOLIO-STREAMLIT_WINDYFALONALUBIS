@@ -36,9 +36,6 @@ def show():
             st.write(f"⭐ **Rating Versiku:** {row['Rating']}/5")
             st.markdown(f"📝 _{row['Review']}_")
 
-    # Penutup manis
-    st.markdown("---")
-    st.markdown("💫 Terima kasih sudah mampir ke rak bukuku. Semoga kamu menemukan bacaan yang menyentuh hatimu 💕")
 
 
 
