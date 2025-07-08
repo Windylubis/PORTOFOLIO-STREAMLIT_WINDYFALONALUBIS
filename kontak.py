@@ -5,7 +5,7 @@ def show():
     st.markdown("""
         <style>
         .stApp {
-            background-color: #ffe6f0;
+            background-color: #e6fff7;
         }
         </style>
     """, unsafe_allow_html=True)
